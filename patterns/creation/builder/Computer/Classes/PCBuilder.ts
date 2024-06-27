@@ -1,6 +1,7 @@
 import { PC } from "./PC";
 import { Board, Builder, CPU, Chassis, PCType, RAM, Refrigeration } from "./types";
 
+// Builder Class
 export class PCBuilder implements Builder {
     private PC = new PC();
 

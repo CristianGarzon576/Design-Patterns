@@ -1,3 +1,4 @@
+// strategy interface
 export interface PaymentStrategy {
     readonly _discount: number;
     readonly _taxes: number;

@@ -1,5 +1,6 @@
 import { Item, PaymentStrategy } from "./types";
 
+// Context Class
 export class Payments {
     private _paymentMethod: PaymentStrategy;
     private _items: Item[];

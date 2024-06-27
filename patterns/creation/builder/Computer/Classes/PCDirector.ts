@@ -1,6 +1,7 @@
 import { PC } from "./PC";
 import { AirRefrigeration, Builder, LiquidRefrigeration } from "./types";
 
+// Director Class
 export class PCDirector {
     private _builder: Builder;
 

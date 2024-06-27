@@ -1,5 +1,6 @@
 import { PaymentStrategy } from "./types";
 
+// Strategies
 export class CashMethod implements PaymentStrategy {
 
     readonly _discount = 0.1;
