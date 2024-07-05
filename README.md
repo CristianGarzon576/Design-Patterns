@@ -14,6 +14,9 @@ Assemble objects and classes into larger structures, while keeping these structu
 ### Decorator
 Lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
 
+### Adapter
+Allows objects with incompatible interfaces to collaborate.
+
 
 ## Behavioral
 Concerned with algorithms and the assignment of responsibilities between objects.
