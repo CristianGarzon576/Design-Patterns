@@ -9,9 +9,10 @@
     "builder-computer" : "npx ts-node patterns/creation/builder/Computer/index.ts",
     "builder-pizza" : "npx ts-node patterns/creation/builder/Piza/index.ts",
     "strategy-payment" : "npx ts-node patterns/behavioral/strategy/Payment/index.ts",
-    "decorator-coffee" : "npx ts-node patterns/estructural/decorator/Coffee/index.ts",
-    "decorator-example": "npx ts-node patterns/estructural/decorator/example.ts",
-    "adapter-translate": "npx ts-node patterns/estructural/adapter/Translate/index.ts"
+    "decorator-coffee" : "npx ts-node patterns/structural/decorator/Coffee/index.ts",
+    "decorator-example": "npx ts-node patterns/structural/decorator/example.ts",
+    "adapter-translate": "npx ts-node patterns/structural/adapter/Translate/index.ts",
+    "facade-subsystem": "npx ts-node patterns/structural/facade/subsystem/index.ts"
   },
   "author": "",
   "license": "ISC",

@@ -8,7 +8,7 @@ Creational design patterns provide various object creation mechanisms, which inc
 Is used to create complex object step by step.
 - Can use a Director class to make a predefined elements.
 
-## Estructural
+## Structural
 Assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 
 ### Decorator
@@ -16,7 +16,12 @@ Lets you attach new behaviors to objects by placing these objects inside special
 
 ### Adapter
 Allows objects with incompatible interfaces to collaborate.
+ 
+### Facade
+Provides a simplified interface to a library, a framework, or any other complex set of classes.
 
+### Bridge
+Lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
 
 ## Behavioral
 Concerned with algorithms and the assignment of responsibilities between objects.
